@@ -1,0 +1,50 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy/enemyController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Enemy/enemyController.cs" Line="19" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Scripts" expanded="True">
+              <Node name="Enemy" expanded="True">
+                <Node name="EnemyAttack.cs" selected="True" />
+                <Node name="enemyController.cs" selected="True" />
+                <Node name="EnemyLaser.cs" selected="True" />
+                <Node name="enemyPosition.cs" selected="True" />
+                <Node name="SpawnEnemy.cs" selected="True" />
+              </Node>
+              <Node name="GameScene" expanded="True" selected="True">
+                <Node name="Destroyer.cs" selected="True" />
+                <Node name="LifeController.cs" selected="True" />
+                <Node name="Score.cs" selected="True" />
+              </Node>
+              <Node name="LoseScene" expanded="True" selected="True">
+                <Node name="LoseScreen.cs" selected="True" />
+              </Node>
+              <Node name="Player" expanded="True" selected="True">
+                <Node name="PlayerAttack.cs" selected="True" />
+                <Node name="PlayerController.cs" selected="True" />
+                <Node name="PlayerLaser.cs" selected="True" />
+              </Node>
+              <Node name="StartScene" expanded="True" selected="True">
+                <Node name="ExternalButtonManager.cs" selected="True" />
+                <Node name="MusicPlayer.cs" selected="True" />
+                <Node name="SoundFXPlayer.cs" selected="True" />
+                <Node name="StartScreen.cs" selected="True" />
+              </Node>
+              <Node name="LevelManager.cs" selected="True" />
+              <Node name="StoreAssets.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
